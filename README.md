@@ -1,6 +1,6 @@
 # README #
 
-# polynomial
+## polynomial
 Shiny project: simple demonstration of data and model displayed in a graph
 
 ### What is this repository for? ###
